@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="./assets/icon.png" alt="github-repo-manager" width="150">
-
-# github-repo-manager
+<img src="./assets/icon.png" alt="github-repo-manager" width="150"> # github-repo-manager
 
 **Your repository's resident robot — rigorous about safety, loyal to you, and honest when you're about to do something you'd regret.**
 
