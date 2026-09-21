@@ -6,7 +6,7 @@
 
 **你仓库里的常驻机器人——对安全一丝不苟，对你绝对忠诚，在你即将做出会后悔的操作时及时开口。**
 
-一个用于维护并发布**你自己的** GitHub 仓库的 WorkBuddy **技能**。
+一个用于维护并发布**你自己的** GitHub 仓库的 智能体 **技能（skill）**。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](./CHANGELOG.md)
